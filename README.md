@@ -27,3 +27,5 @@ Run the script:
 (Optional) Run with bash if you don’t want to make it executable:
 
 bash server-stats.sh
+
+project link:https://roadmap.sh/projects/server-stats
